@@ -1,0 +1,10 @@
+C:\Users\Manic\RiderProjects\Collatz\Collatz\bin\Debug\Collatz.exe.config
+C:\Users\Manic\RiderProjects\Collatz\Collatz\bin\Debug\Collatz.exe
+C:\Users\Manic\RiderProjects\Collatz\Collatz\bin\Debug\Collatz.pdb
+C:\Users\Manic\RiderProjects\Collatz\Collatz\obj\Debug\Collatz.csprojAssemblyReference.cache
+C:\Users\Manic\RiderProjects\Collatz\Collatz\obj\Debug\Collatz.Properties.Resources.resources
+C:\Users\Manic\RiderProjects\Collatz\Collatz\obj\Debug\Collatz.csproj.GenerateResource.cache
+C:\Users\Manic\RiderProjects\Collatz\Collatz\obj\Debug\Collatz.csproj.CoreCompileInputs.cache
+C:\Users\Manic\RiderProjects\Collatz\Collatz\obj\Debug\Collatz.exe
+C:\Users\Manic\RiderProjects\Collatz\Collatz\obj\Debug\Collatz.pdb
+C:\Users\Manic\RiderProjects\Collatz\Collatz\obj\Debug\Collatz.Form1.resources
